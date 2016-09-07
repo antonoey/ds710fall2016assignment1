@@ -1,8 +1,25 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 1. What is your name?
+Anton Oey
+
 2. Why are you interested in Data Science?
+I want to learn how to do preditive, descriptive and prescriptive analytics.
+
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+I did computer science major at u of wisconsin oshkosh (Class 2003), at that time I did C, C++ and Java for the programming courses.  
+Professionally, I have been using C, C++, Java, Visual Basic, C#, ASP, ASP.Net, PHP and PeopleCode.  
+Currently, I am using C# (Financial/Accouting related apps) and doing reporting on MSSQL (SSRS/SSIS). 
+In the past, I worked mostly for back-end processings (real-time and deferred), automations and optimizations.
+
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+I took a statistic class last year for Data Science pre-req from U of Wisconsin Colleges Online.  
+I did use basic statistics for reportings and KPIs.
+
 5.  Do you have other experience with R or Python?
+No, I do not.
+
 6.  What do you hope to learn in this class?
+Want to see / learn in detail how R and Python being utilized for data science.
+
 7.  Is there anything else you would like to share with us?
+None at the moment.
